@@ -1,6 +1,7 @@
 # Olá, Sou o Caio Alberto 
 
 Apaixonado por desafios e por aprender coisas novas.
+Estou estudando React native.
 
 <div align="center">
   <a href="https://github.com/caioalbert">
