@@ -1,6 +1,6 @@
 # Olá, Sou o Caio Alberto 
 
-Apaixonado por desafios e por aprender coisas novas.
+Apaixonado por desafios e por aprender coisas novas. <br/>
 Estou estudando React native.
 
 <div align="center">
