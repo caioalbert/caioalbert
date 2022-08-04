@@ -1,4 +1,6 @@
-# Olá, Sou o Caio alberto 
+# Olá, Sou o Caio Alberto 
+
+Apaixonado por desafios e por aprender coisas novas.
 
 <div align="center">
   <a href="https://github.com/caioalbert">
