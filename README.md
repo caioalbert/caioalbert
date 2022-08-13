@@ -1,7 +1,7 @@
 # Olá, Sou o Caio Alberto ferreira
 
 
-Apaixonado por desafios e por aprender coisas novas. <br/>
+Apaixonado por desafios e por aprender coisas novas e por tecnologia. <br/>
 Estou estudando React native.
 
 <div align="left">
