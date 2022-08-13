@@ -1,4 +1,5 @@
-# Olá, Sou o Caio Alberto ferreira
+# Olá!:wave: Seja Bem-vindo!
+# Eu sou o Caio! Desenvolvedor Junior Front-end & Back-end. :computer
 
 
 Apaixonado por desafios e por aprender coisas novas e por tecnologia. <br/>
