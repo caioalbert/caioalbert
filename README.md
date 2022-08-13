@@ -22,4 +22,6 @@ Estou estudando React native.
 
 ##
 
-![ Animação de cobra ](https://github.com/caioalbert/caioalbert/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+ <img src="https://raw.githubusercontent.com/iurymagano/iurymagano/ac2ffd353eb242eb6791e490e1d3aaec5856acdf/github-contribution-grid-snake.svg"/>
+ </div>
