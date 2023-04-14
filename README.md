@@ -31,5 +31,5 @@ Estou estudando React native.
 ##
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/iurymagano/iurymagano/ac2ffd353eb242eb6791e490e1d3aaec5856acdf/github-contribution-grid-snake.svg"/>
+ <img src="https://raw.githubusercontent.com/caioalbert/caioalbert/ac2ffd353eb242eb6791e490e1d3aaec5856acdf/github-contribution-grid-snake.svg"/>
  </div>
