@@ -1,4 +1,4 @@
-# Olá,:wave: Seja Bem-vindo!
+# Olá,🖐 Seja Bem-vindo!
 # Eu sou o Caio! Desenvolvedor web Front-end & Back-end. :computer:
 
 
