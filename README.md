@@ -1,9 +1,8 @@
 # <div align="center">Olá, 🖐 Seja Bem-vindo!</div>
-# <div align="center">Eu sou o Caio! Desenvolvedor web Front-end & Back-end. :computer:</div>
+# <div align="center">Eu sou o Caio! Consultor de Tecnologia Devops :computer:</div>
 
 <div align="center">
   Apaixonado por desafios e por aprender coisas novas e por tecnologia. <br/>
-  Estou estudando React native.
 </div>
 
 <!-- GITHUB STATUS -->
