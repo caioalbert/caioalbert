@@ -56,19 +56,7 @@
 
 ---
 
-## 📊 Minhas Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioalbert/caioalbert/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioalbert/caioalbert/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/caioalbert/caioalbert/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 **Vamos conversar?**  
 Aberto a conexões sobre DevOps, Platform Engineering, Cloud Native, automação e boas práticas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/caio-alberto-ferreira-3b7ab3188/?locale=en))
